@@ -1,0 +1,29 @@
+{
+  "name": "Yorimichi Atelier VPM Repository",
+  "author": "Yorimichi Atelier",
+  "url": "https://yorimichiatelier.github.io/megane-fit/index.json",
+  "id": "yorimichiatelier.megane-fit.listing",
+  "packages": {
+    "com.yorimichiatelier.megane-fit": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.yorimichiatelier.megane-fit",
+          "version": "1.0.0",
+          "displayName": "メガネ調整ツール",
+          "description": "シーン上でアバターとメガネの位置を調整し、プレビューしてから適用できます。",
+          "unity": "2022.3",
+          "dependencies": {},
+          "author": {
+            "name": "Yorimichi Atelier",
+            "email": "yorimichi56@gmail.com",
+            "url": "https://github.com/YorimichiAtelier"
+          },
+          "url": "https://github.com/YorimichiAtelier/megane-fit/releases/download/v1.0.0/com.yorimichiatelier.megane-fit-1.0.0.zip",
+          "vpmDependencies": {},
+          "license": "MIT",
+          "zipSHA256": "47f6e8dc4907804aff7fc5ace84ff2b95eabe738348ad0c773edf328fec18174"
+        }
+      }
+    }
+  }
+}
